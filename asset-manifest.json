@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GundamGuide/static/css/main.4179e464.css",
+    "main.js": "/GundamGuide/static/js/main.99c1d15e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GundamGuide/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/GundamGuide/index.html",
+    "main.4179e464.css.map": "/GundamGuide/static/css/main.4179e464.css.map",
+    "main.99c1d15e.js.map": "/GundamGuide/static/js/main.99c1d15e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GundamGuide/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4179e464.css",
+    "static/js/main.99c1d15e.js"
+  ]
+}
